@@ -95,7 +95,10 @@ analytics:
 author:
   name             : "Sungyoon Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate, Department of Mathematical Sciences, Seoul National University"
+  bio              : >
+    PhD Candidate
+    Department of Mathematical Sciences
+    Seoul National University
   location         : "Seoul, Korea"
   email            :
   links:
